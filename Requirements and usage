@@ -1,0 +1,14 @@
+ITEMS NEEDED
+a. Pycharm 
+b. cv2 module
+
+USAGE
+- First create an empty folder 
+- Using pycharm 
+    - Go to Setings   - Python Projects - Interpreter 
+    - add interpreter - add local interpreter  
+    - put the directory of your folder into the location
+    - check the inherit global 
+    - make sure a python interpreter is set
+    - now then copy these files to that location and run allospere 2.0
+
